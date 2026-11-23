@@ -6,7 +6,7 @@ Industry: Airline | Company: Delta Air Lines
 Module: gatekeeper.py
 Purpose: Core gatekeeper engine that evaluates agent requests against business rules,
 determines the decision (ALLOW, ASK CUSTOMER, BLOCK), tracks execution status,
-and writes immutable audit entries.
+and writes immutable audit  entries.
 """
 
 from pathlib import Path
