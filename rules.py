@@ -1,7 +1,7 @@
 """
 Agent Gatekeeper – AI Agent Permission and Access Control System for Delta Air Lines
 Student: Veerparam Chauhan | Enrolment Number: PGD202563340
-Industry: Airline | Company: Delta Air Lines
+Industry: Airline | Company: Delta Air  Lines
 
 Module: rules.py
 Purpose: Defines and evaluates the 8 business rules governing AI Agent requests.
