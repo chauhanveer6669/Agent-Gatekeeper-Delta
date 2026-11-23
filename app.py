@@ -1,7 +1,7 @@
 """
 Agent Gatekeeper – AI Agent Permission and Access Control System for Delta Air Lines
 Student: Veerparam Chauhan | Enrolment Number: PGD202563340
-Industry: Airline | Company: Delta Air Lines
+Industry:  Airline | Company: Delta Air Lines
 
 Main Application File: app.py
 Built with Streamlit, Pandas, and Python.
