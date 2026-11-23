@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Executive Summary & Purpose
+## 1. Executive Summary & Purpose 
 
 The **Agent Gatekeeper** is a zero-trust permission and policy enforcement engine designed for the aviation sector. As consumers increasingly adopt autonomous Artificial Intelligence (AI) agents—such as digital travel concierges, personal LLMs, and autonomous price-monitoring bots—they delegate high-consequence travel operations to software actors acting on their behalf.
 
